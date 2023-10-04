@@ -2,8 +2,7 @@
 Deep learning-based website for rapid prediction of Escherichia coli antibiotic resistance
 Due to network reasons, a VPN is required to access this service，
 
-For seamless installation on Mac OS, users should locate and download the provided "DMG" file. Follow the outlined steps after downloading to successfully log in. Windows users can download the provided "exe" file to access the easyconnect installer. 
-
+Users should download and install the "EasyConnect" software from: https://202.107.195.204/portal/#!/login 
 
 <img width="416" alt="image" src="https://github.com/tjiaa/E.coli-ML/assets/91398760/1c052a21-e9ea-4a9c-897f-72a22da66fe1">
 
